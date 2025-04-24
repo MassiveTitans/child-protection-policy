@@ -1,5 +1,13 @@
+Bizning ilovamiz bolalarni jinsiy zo'ravonlik va ekspluatatsiya qilishni taqiqlovchi xalqaro standartlarga qat'iy rioya qiladi. Biz bolalar huquqlarini buzuvchi har qanday kontentni qoralaymiz va taqiqlaymiz.
+Amaldagi standartlar haqida batafsil ma'lumot:
+BMTning Bola huquqlari to'g'risidagi konventsiyasi: https://www.ohchr.org/ru/instruments-mechanisms/instruments/convention-rights-child
 
-(Замените `yourusername` на ваш GitHub логин)
+
+Ixtiyoriy protokol: https://www.ohchr.org/en/instruments-mechanisms/instruments/optional-protocol-convention-rights-child-sale-children-child
+
+
+Bolalarni onlayn himoya qilish bo'yicha ko'rsatmalar (UNICEF): https://www.unicef.org/eca/reports/child-online-protection-guidelines-industry
+
 
 ## Международные стандарты
 
